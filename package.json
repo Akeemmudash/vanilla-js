@@ -4,7 +4,8 @@
   "description": "Practicing Vanilla js",
   "main": "countdown.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "findfile": "node scripts/find-file.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/Akeemmudash/vanilla-js/issues"
   },
-  "homepage": "https://github.com/Akeemmudash/vanilla-js#readme"
+  "homepage": "https://github.com/Akeemmudash/vanilla-js#readme",
+  "type": "module"
 }
